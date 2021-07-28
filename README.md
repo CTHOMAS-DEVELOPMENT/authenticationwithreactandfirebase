@@ -15,7 +15,7 @@ Note this authentication module supports all "expected functionality" including 
 ### Demo
 
 Feel free to make users and configure them with the demo application:
-https://authenticationwithreactandfirebase.surge.sh/login
+https://authenticationwithreactandfirebase.surge.sh/
 
 Note: you'll need to click the "Sign up" link on the first visit
 
